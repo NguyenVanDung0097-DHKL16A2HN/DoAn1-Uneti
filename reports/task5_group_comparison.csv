@@ -1,0 +1,6 @@
+﻿Biến,Mean (<=50K),Mean (>50K),Chênh lệch Mean,Median (<=50K),Median (>50K)
+Độ tuổi (Age),36.79,44.25,7.46,34.0,44.0
+Số năm học vấn (Education Num),9.6,11.61,2.02,9.0,12.0
+Số giờ làm việc / tuần (Hours per Week),38.84,45.47,6.63,40.0,40.0
+Thu nhập từ vốn (Capital Gain),148.88,4007.16,3858.28,0.0,0.0
+Khoản lỗ vốn (Capital Loss),53.19,195.05,141.86,0.0,0.0

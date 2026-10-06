@@ -1,0 +1,6 @@
+﻿Tên biến,Ký hiệu,Số mẫu,Trung bình (Mean),Độ lệch chuẩn (Std),Nhỏ nhất (Min),Tứ phân vị 25% (Q1),Trung vị (Median),Tứ phân vị 75% (Q3),Lớn nhất (Max),Độ lệch (Skewness),Số Outliers (IQR),Tỷ lệ Outliers (%)
+Độ tuổi (Age),age,32537,38.59,13.64,17,28.0,37.0,48.0,90,0.56,142,0.44
+Số năm học vấn (Education Num),education_num,32537,10.08,2.57,1,9.0,10.0,12.0,16,-0.31,1193,3.67
+Số giờ làm việc / tuần (Hours per Week),hours_per_week,32537,40.44,12.35,1,40.0,40.0,45.0,99,0.23,9002,27.67
+Thu nhập từ vốn (Capital Gain),capital_gain,32537,1078.44,7387.96,0,0.0,0.0,0.0,99999,11.95,2712,8.34
+Khoản lỗ vốn (Capital Loss),capital_loss,32537,87.37,403.1,0,0.0,0.0,0.0,4356,4.59,1519,4.67

@@ -1,0 +1,17 @@
+BÁO CÁO KẾT QUẢ LÀM SẠCH VÀ TIỀN XỬ LÝ DỮ LIỆU
+============================================================
+Số dòng ban đầu: 32561
+Số bản ghi trùng lặp đã loại: 24
+Số dòng sau làm sạch: 32537
+
+XỬ LÝ GIÁ TRỊ THIẾU (IMPUTATION BẰNG MODE):
+  - Cột workclass: điền bằng mode 'Private'
+  - Cột occupation: điền bằng mode 'Prof-specialty'
+  - Cột native_country: điền bằng mode 'United-States'
+
+THỐNG KÊ OUTLIERS THEO IQR:
+  - age: 142 ngoại lai (0.44%)
+  - education_num: 1193 ngoại lai (3.67%)
+  - hours_per_week: 9002 ngoại lai (27.67%)
+  - capital_gain: 2712 ngoại lai (8.34%)
+  - capital_loss: 1519 ngoại lai (4.67%)

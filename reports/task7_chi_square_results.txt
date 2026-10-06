@@ -1,0 +1,31 @@
+KẾT QUẢ KIỂM ĐỊNH CHI-SQUARE VỀ TÍNH ĐỘC LẬP
+============================================================
+Mức ý nghĩa: alpha = 0.05
+
+[*] Kiểm định: Học vấn và Mức thu nhập (Education x Income)
+    - Bảng chéo kích thước: (16, 2)
+    - Giá trị Chi-square thống kê: 4428.4047
+    - Bậc tự do (Degrees of Freedom - dof): 15
+    - p-value: 0.0000e+00
+    - Kết luận (alpha=0.05): Bác bỏ giả thuyết H0 (Có mối liên hệ có ý nghĩa thống kê)
+
+[*] Kiểm định: Giới tính và Mức thu nhập (Sex x Income)
+    - Bảng chéo kích thước: (2, 2)
+    - Giá trị Chi-square thống kê: 1516.5397
+    - Bậc tự do (Degrees of Freedom - dof): 1
+    - p-value: 0.0000e+00
+    - Kết luận (alpha=0.05): Bác bỏ giả thuyết H0 (Có mối liên hệ có ý nghĩa thống kê)
+
+[*] Kiểm định: Nghề nghiệp và Mức thu nhập (Occupation x Income)
+    - Bảng chéo kích thước: (14, 2)
+    - Giá trị Chi-square thống kê: 3197.6128
+    - Bậc tự do (Degrees of Freedom - dof): 13
+    - p-value: 0.0000e+00
+    - Kết luận (alpha=0.05): Bác bỏ giả thuyết H0 (Có mối liên hệ có ý nghĩa thống kê)
+
+[*] Kiểm định: Tình trạng hôn nhân và Mức thu nhập (Marital Status x Income)
+    - Bảng chéo kích thước: (7, 2)
+    - Giá trị Chi-square thống kê: 6510.3321
+    - Bậc tự do (Degrees of Freedom - dof): 6
+    - p-value: 0.0000e+00
+    - Kết luận (alpha=0.05): Bác bỏ giả thuyết H0 (Có mối liên hệ có ý nghĩa thống kê)

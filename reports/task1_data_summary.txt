@@ -1,0 +1,28 @@
+BÁO CÁO CẤU TRÚC DỮ LIỆU THÔ - US ADULT CENSUS
+============================================================
+Số dòng: 32561
+Số cột: 15
+Số bản ghi trùng lặp: 24
+
+CHI TIẾT CÁC CỘT:
+      Tên biến Kiểu dữ liệu  Số giá trị thiếu (?)  Tỷ lệ thiếu (%)  Số giá trị duy nhất
+           age        int64                     0             0.00                   73
+     workclass       object                  1836             5.64                    9
+        fnlwgt        int64                     0             0.00                21648
+     education       object                     0             0.00                   16
+ education.num        int64                     0             0.00                   16
+marital.status       object                     0             0.00                    7
+    occupation       object                  1843             5.66                   15
+  relationship       object                     0             0.00                    6
+          race       object                     0             0.00                    5
+           sex       object                     0             0.00                    2
+  capital.gain        int64                     0             0.00                  119
+  capital.loss        int64                     0             0.00                   92
+hours.per.week        int64                     0             0.00                   94
+native.country       object                   583             1.79                   42
+        income       object                     0             0.00                    2
+
+PHÂN BỐ BIẾN MỤC TIÊU:
+income
+<=50K    24720
+>50K      7841
